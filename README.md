@@ -1,3 +1,31 @@
 # Termonopoly
 
-Monopoly game in Terminal, written in TypeScript.
+在终端中游玩的 Monopoly（大富翁）游戏，用 TypeScript 编写。
+
+## Features
+
+- 玩家
+  - 位置
+  - 金钱
+  - 状态
+    - 是否破产
+    - 是否入狱
+- 格子
+  - 地产
+    - 组别
+    - 价格
+    - 租金
+    - 等级
+  - 事件格
+- 效果 / 事件
+  - 移动
+  - 跳跃
+  - 金钱变动
+  - 入狱
+- 游戏
+  - 掷骰子
+  - 轮次
+  - 买入
+  - 升级
+  - 过路费
+  - 日志
