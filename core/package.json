@@ -1,0 +1,11 @@
+{
+  "name": "@termonopoly/core",
+  "type": "module",
+  "version": "0.1.0",
+  "private": true,
+  "main": "src/index.ts",
+  "keywords": [],
+  "author": "Wesley-Young",
+  "license": "MIT",
+  "packageManager": "pnpm@10.33.0"
+}
